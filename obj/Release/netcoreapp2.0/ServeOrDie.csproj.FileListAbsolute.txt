@@ -1,0 +1,12 @@
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.csprojResolveAssemblyReference.cache
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.csproj.CoreCompileInputs.cache
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.AssemblyInfoInputs.cache
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.AssemblyInfo.cs
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\ServeOrDie.deps.json
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\ServeOrDie.runtimeconfig.json
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\ServeOrDie.runtimeconfig.dev.json
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\ServeOrDie.dll
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\ServeOrDie.pdb
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.dll
+D:\Projekte\cybertron\ServeOrDie\obj\Release\netcoreapp2.0\ServeOrDie.pdb
+D:\Projekte\cybertron\ServeOrDie\bin\Release\netcoreapp2.0\WebAppConfig.json
